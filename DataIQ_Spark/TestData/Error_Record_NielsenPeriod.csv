@@ -1,0 +1,8 @@
+Data_Set_Name,Error_Description,Error_Record,Insert_Time
+NielsenPeriod,"Columns: DATE,SDESC is not proper(null/blank/0/Unparceable)","W/E 05/17/14,WEEK ENDING 05/17/14,W/E 05/17/14,Unparceable,WEEK,2014,2014 Q2,2014 1ST HALF,2014 M06,2014 WEEK 21",2017-08-04T07:36:34.445+00:00
+NielsenPeriod,"Columns: DATE,SDESC is not proper(null/blank/0/Unparceable)","W/E 05/24/14,WEEK ENDING 05/24/14,W/E 05/24/14,Unparceable,WEEK,2014,2014 Q2,2014 1ST HALF,2014 M06,2014 WEEK 22",2017-08-04T07:36:34.445+00:00
+NielsenPeriod,"Columns: DATE,SDESC is not proper(null/blank/0/Unparceable)","W/E 05/31/14,WEEK ENDING 05/31/14,W/E 05/31/14,Unparceable,WEEK,2014,2014 Q2,2014 1ST HALF,2014 M06,2014 WEEK 23",2017-08-04T07:36:34.445+00:00
+NielsenPeriod,"Columns: DATE,SDESC is not proper(null/blank/0/Unparceable)","W/E 06/07/14,WEEK ENDING 06/07/14,W/E 06/07/14,Unparceable,WEEK,2014,2014 Q2,2014 1ST HALF,2014 M06,2014 WEEK 24",2017-08-04T07:36:34.445+00:00
+NielsenPeriod,"Columns: DATE,SDESC is not proper(null/blank/0/Unparceable)","W/E 06/14/14,null,W/E 06/14/14,Unparceable,WEEK,2014,2014 Q2,2014 1ST HALF,2014 M07,2014 WEEK 25",2017-08-04T07:36:34.445+00:00
+NielsenPeriod,"Columns: DATE,SDESC is not proper(null/blank/0/Unparceable)","W/E 06/21/14,null,W/E 06/21/14,06/21/2014,WEEK,2014,2014 Q2,2014 1ST HALF,2014 M07,2014 WEEK 26",2017-08-04T07:36:34.445+00:00
+NielsenPeriod,"Columns: DATE,SDESC is not proper(null/blank/0/Unparceable)","W/E 06/28/14,null,W/E 06/28/14,06/28/2014,WEEK,2014,2014 Q3,2014 2ND HALF,2014 M07,2014 WEEK 27",2017-08-04T07:36:34.445+00:00
